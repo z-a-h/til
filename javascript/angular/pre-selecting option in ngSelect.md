@@ -37,5 +37,3 @@ $scope.user = {
 `<select ng-options="document as document.name for document in documents track by document.id" ng-model="user.document_id"></select>` 
 
 This will not pre-select `$scope.documents[0].id`. The value of the ng-model must be the same format as the options.
-
-[Source](https://docs.angularjs.org/api/ng/directive/ngOptions)
