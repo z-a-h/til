@@ -1,7 +1,7 @@
 #Goes To Operator
 
 The 'goes to operator' `-->`, is actually two seperate operators, `--` and `>`. It can be used to decrement a value and then compare it against another value.
-Example: 
+Example:
 ```javascript
 function countdown(n) {
   while (n --> 0)  // "n goes to zero"
