@@ -1,0 +1,51 @@
+Math to learn
+
+Conjugation of j?
+
+Sinusoidal functions (sine wave)
+--------------------------------
+- Mathematical curve that describes a smooth repetitive oscillation
+
+
+Complex Numbers
+--------------------------------
+- Numbers that are build with two parts, a real and imaginary part
+- imaginary numbers are the square root of -1
+- Complex numbers are represented in the complex plane, where the real number is plotted on the x axis and the imaginary number on the y axis
+Euler's Formula
+- Unit circles show all complex numbers within a magnitude
+- Complex numbers can be displayed in rectangular or polar form.
+- Rectangular form is displayed as the intersection of the two values on the complex plane
+- Polar forms represents the number as a vector
+
+Euler's Formula
+--------------------------------
+- establishes a relationship between polar and rectangular forms of complex numbers
+
+
+Complex Sinusoids
+--------------------------------
+- Sinusoids that are expressed using Euler's Formal
+- The sum of two complex sine-waves can cancel the imaginary component of the sine-waves and produce a real sine-waves
+
+
+Scalar (or dot) product of sequences
+--------------------------------
+- Takes two equal length sequences of numbers and returns a singular value
+- Orthogonality of sequences: When two sequences are orthogonal, their scalar product is equal to zero
+- The dot product is the project of one sequence into another
+
+Even and odd functions
+--------------------------------
+- f[n] is even if f[-n] = f[n]
+- f[n] is odd if f[-n] = f[-n]
+- cosine is an even function because it is symmetric at 0
+- sine is an odd function because it is asymmetric at 0
+
+Convolution of sequences
+--------------------------------
+- mathematical operation of two sequences producing a third sequence that can be viewed as a modified version of one of the original sequences
+
+
+
+
